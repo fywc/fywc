@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Recent blog posts
+[blog](https://fywc.github.io/pages/)

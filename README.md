@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ### Recent blog posts
 [blog](https://fywc.github.io/pages/)
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)

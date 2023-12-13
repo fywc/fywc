@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 [blog](https://fywc.github.io/pages/)
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/fywc/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)
+
+

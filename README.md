@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Linux Kernel, GPU Analysis.
+
 🌱 I’m currently learning CUDA.
+
 📫 How to reach me: imfywc@gmail.com
+
 ### Recent blog posts
 [blog](https://fywc.github.io/pages/)
 

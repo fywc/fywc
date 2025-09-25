@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Linux Kernel, GPU Analysis.
 
-🌱 I’m currently learning CUDA.
+🌱 I’m currently Working on GPU Virtualization + LLM Inference optimization.
 
 📫 How to reach me: imfywc@gmail.com
 

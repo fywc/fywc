@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Linux Kernel, GPU Analysis.
 
-🌱 I’m currently Working on GPU Virtualization + LLM Inference optimization.
+🌱 I’m currently Working on GPU Virtualization + LLM Inference Optimization.
 
 📫 How to reach me: imfywc@gmail.com
 
